@@ -22,5 +22,5 @@ preprocessor- This notebook preprocesses the image and is used for training and 
 
 saved_model- This is the customized CNN model that is designed by me.
 
-app- This file has the code for designing web app.
+app- This file contains the code for designing web app.
  
